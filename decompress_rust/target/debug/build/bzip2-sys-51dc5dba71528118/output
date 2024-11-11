@@ -85,6 +85,6 @@ HOST_ARFLAGS = None
 cargo:rerun-if-env-changed=ARFLAGS
 ARFLAGS = None
 cargo:rustc-link-lib=static=bz2
-cargo:rustc-link-search=native=/Users/kartikjangid/Documents/Projects/RustRover/rust-stuff/decompress_rust/target/debug/build/bzip2-sys-51dc5dba71528118/out/lib
-cargo:root=/Users/kartikjangid/Documents/Projects/RustRover/rust-stuff/decompress_rust/target/debug/build/bzip2-sys-51dc5dba71528118/out
-cargo:include=/Users/kartikjangid/Documents/Projects/RustRover/rust-stuff/decompress_rust/target/debug/build/bzip2-sys-51dc5dba71528118/out/include
+cargo:rustc-link-search=native=/Users/kartikjangid/Documents/Projects/RustRover/RustyBasics/decompress_rust/target/debug/build/bzip2-sys-51dc5dba71528118/out/lib
+cargo:root=/Users/kartikjangid/Documents/Projects/RustRover/RustyBasics/decompress_rust/target/debug/build/bzip2-sys-51dc5dba71528118/out
+cargo:include=/Users/kartikjangid/Documents/Projects/RustRover/RustyBasics/decompress_rust/target/debug/build/bzip2-sys-51dc5dba71528118/out/include
