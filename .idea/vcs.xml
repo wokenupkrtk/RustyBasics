@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor_rust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/decompress_rust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-csv-reader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-csv-reader/rust-csv-reader" vcs="Git" />
+  </component>
+</project>
