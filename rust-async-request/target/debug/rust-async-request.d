@@ -1,0 +1,1 @@
+/Users/kartikjangid/Documents/Projects/RustRover/rust-stuff/rust-async-request/target/debug/rust-async-request: /Users/kartikjangid/Documents/Projects/RustRover/rust-stuff/rust-async-request/src/main.rs

@@ -1,0 +1,1 @@
+Hi, this is a samole file for the rust based decompresor.
